@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarefas a fazer</string>
+
+    <!-- Main Activity -->
+    <string name="tarefas">Tarefas</string>
+    <string name="nova_tarefa">Adicionar Nova Tarefa</string>
+
+    <!-- Criar Tarefas -->
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="titulo">Título</string>
+    <string name="hora">Hora</string>
+
+    <!-- Menu Popup -->
+    <string name="label_editar">Editar</string>
+    <string name="label_exclui">Excluir</string>
+
+    <!--Empty Activity -->
+    <string name="label_empty_list">Nem um compromissos\n até o momento.</string>
+</resources>
